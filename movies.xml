@@ -1,0 +1,52 @@
+
+
+<movie_collection xmlns:collection="http://movies.com">
+  collection:movie1 id="DieHard"
+  <title collection:title="Die Hard"/>
+  <description collection:description="One NYC cop = Roughly 10 East German Terrorists"/>
+  <rating collection:rating="5/5"/>
+  <showtimes>
+    time1:movie1 = 12pm
+    time2:movie1 = 4pm
+    time3:movie1 = 8pm
+  </showtimes>
+
+  
+  collection:movie2 id="Jaws"
+  <title collection:title="Jaws"/>
+  <description collection:description="Go to SeaWorld Instead"/>
+  <rating collection:rating="5/5"/>
+  <showtimes>
+    time1:movie1 = 12pm
+    time2:movie1 = 4pm
+    time3:movie1 = 8pm
+  </showtimes>
+
+  
+  collection.movie3 id="GodofCookery"
+  <title collection:title="God of Cookery"/>
+  <description collection:description="You Can't Cook This Well"/>
+  <rating collection:rating="5/5"/>
+  <showtimes>
+    time1:movie1 = 12pm
+    time2:movie1 = 4pm
+    time3:movie1 = 8pm
+  </showtimes>
+
+  
+  collection.movie4 id="KungFuHustle"
+  <title collection:title="Kung Fu Hustle"/>
+  <description collection:description="... This Movie's Title Needs No Enhancement"/>
+  <rating collection:rating="5/5"/>
+  <showtimes>
+    time1:movie1 = 12pm
+    time2:movie1 = 4pm
+    time3:movie1 = 8pm
+  </showtimes>
+  
+
+</movie_collection>
+  
+  
+
+

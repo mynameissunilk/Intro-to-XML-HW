@@ -1,0 +1,12 @@
+Answers to first excercise, "Look at an XML file:"
+
+1) How many Elements does this XML file have? 
+14? Counted all opening parents and members, including empty elements, and left out closing tags. 
+
+2) The namespace is named  "android" with URI:http://schemas.android.com/apk/res/android
+
+3) Parent elements: <application>, <activity>, <intent-filter>, and <service>
+
+   Child elements:(android:) allowBackup, icon, label, supportsRt1, theme, intent-filter, (service)android:name and enabled.
+
+4) Empty elements: "android.intent.action.Main", "android.intent.category.LAUNCHER", ".InformationActivity".
